@@ -1,0 +1,53 @@
+TODAY'S SCHEDULE:
+
+From 07:00 to 08:00 AM => start day
+
+From 08:00 to 09:00 AM => plan
+
+From 09:00 to 10:00 AM => code
+
+From 10:00 to 11:00 AM => code
+
+From 11:00 to 11:59 AM => code
+
+from 12:00 to 01:00 PM => code
+
+From 01:00 to 02:00 PM => break
+
+From 02:00 to 03:00 PM => break
+
+From 03:00 to 04:00 PM => learn
+
+From 04:00 to 05:00 PM => learn
+
+From 05:00 to 06:00 PM => learn
+
+From 06:00 to 07:00 PM => learn
+
+From 07:00 to 08:00 PM => break
+
+From 08:00 to 09:00 PM => break
+
+From 09:00 to 10:00 PM => break
+
+From 10:00 to 11:00 PM => hardware
+
+from 11:00 to 11:59 PM => hardware
+
+From 00:00 to 01:00 AM => -
+
+From 01:00 to 02:00 AM => -
+
+From 02:00 to 03:00 AM => -
+
+From 03:00 to 04:00 AM => -
+
+From 04:00 to 05:00 AM => -
+
+From 05:00 to 06:00 AM => -
+
+From 06:00 to 07:00 AM => -
+
+
+
+~~~~END OF SCHEDULE~~~~
